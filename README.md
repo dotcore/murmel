@@ -2,7 +2,7 @@
 
 Push-to-talk dictation for Linux/Wayland. Runs locally on your GPU.
 
-Bind a hotkey, hold to talk, release to transcribe. murmel captures audio, transcribes it with [NVIDIA Parakeet](https://huggingface.co/collections/nvidia/parakeet-702d58e33ff18e42e5e2e29d) (via NeMo), and types the result at your cursor. No cloud services, no API keys.
+Bind a hotkey, hold to talk, release to transcribe. murmel captures audio, transcribes it with [NVIDIA Parakeet](https://huggingface.co/collections/nvidia/parakeet) (via NeMo), and types the result at your cursor. No cloud services, no API keys.
 
 ### How it works
 
